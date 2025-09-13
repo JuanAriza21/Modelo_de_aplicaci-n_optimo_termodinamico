@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pandas==2.2.2
+firebase-admin==6.5.0
+google-generativeai==0.7.1
+scikit-learn==1.5.0
+deap==1.4.1
+numpy==2.0.0
