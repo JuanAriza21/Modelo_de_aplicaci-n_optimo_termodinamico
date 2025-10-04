@@ -1,4 +1,4 @@
-streamlit
-pandas
-numpy
-firebase-admin
+streamlit==1.36.0
+pandas==2.2.2
+numpy==2.0.0
+firebase-admin==6.5.0
